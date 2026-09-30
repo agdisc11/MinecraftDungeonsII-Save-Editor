@@ -1,0 +1,10 @@
+# Copias de seguridad de partidas: contienen los tokens de tu cuenta de Xbox. NUNCA subir.
+backups/
+
+# Copias legibles de partidas (el proyecto no usa archivos JSON propios)
+*.json
+
+# Python
+__pycache__/
+*.pyc
+*.tmp
